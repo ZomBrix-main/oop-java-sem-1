@@ -1,0 +1,17 @@
+Ćwiczenia 1:
+First - drukowanie napisu
+Second - zmienne i ich drukowanie
+Third drukowanie działań
+Fourth - drukowanie działań
+Fifth - Wczytywanie zmiennych z klawiatury
+Sixth - liczenie litrów z galonów
+Ćwiczenia 2:
+Zadanie_1 - Obliczanie skomplikowanego działania, licznik i mianownik
+Zadanie_2 - Korzystanie z biblioteki random
+Zadanie_3 - Równanie kwadratowe
+Zadanie_4 - Funkcje matematyczne
+Ćwiczenia 3:
+Zadanie_1 - Metody i tablica jednowymiarowa
+Zadanie_3 - Tablica dwu wymiarowa
+Zadanie_4 - Więcej niż 1 klasa i korzystanie z metod 2 klasy
+Zadanie_5 - Tablice dwu wymiarowe i metody na działanie na nich
